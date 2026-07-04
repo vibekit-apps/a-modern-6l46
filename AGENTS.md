@@ -1,7 +1,7 @@
 # Agent guide
 
 App: **a-modern-6l46** at https://a-modern-6l46.vibekit.bot
-Repo: template/landing | Port: 4135
+Repo: vibekit-apps/a-modern-6l46 | Port: 4135
 
 ## NEVER (these break the product)
 - **NEVER point the user at localhost / `npm start`** — only **https://a-modern-6l46.vibekit.bot**. They have no terminal.
