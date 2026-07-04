@@ -1,12 +1,14 @@
 {
-  "name": "landing-page",
+  "name": "2d-action-rpg",
   "version": "1.0.0",
-  "description": "Marketing landing page with hero, features, pricing, and CTA.",
+  "description": "2D Action-Adventure Game with Phaser 3",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'No build needed'"
   },
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "phaser": "^3.60.0"
   }
 }
